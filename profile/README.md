@@ -9,8 +9,12 @@
 
 ## Über WebOrb
 
-TODO
+Wir bringen die Einfachheit zurück ins Web.
+
+Für uns steht der Mensch im Mittelpunkt, nicht das Produkt. Wir hören zu, verstehen deine Ziele und entwickeln genau das, was du brauchst. Nicht mehr und nicht weniger. Faire Preise, eine klare Sprache und vertrauensvolle Zusammenarbeit sind für uns selbstverständlich.
+
+Mit einem offenen Herz für Open Source schaffen wir Lösungen, die ehrlich, effizient und langlebig sind. So entsteht digitale Qualität, die überzeugt, weil sie Sinn macht.
 
 ## Software für die Öffentlichkeit
 
-- Eintrittli
+[Eintrittli](https://github.com/weborb-ch/eintrittli) ist ein einfaches Event-Anmeldesystem. Kein Bezahlsystem und kein Login für Teilnehmen. Jedoch Funktionen die es einfach machen um damit zu arbeiten für Teammitglieder und Administratoren dank der simplen Übersicht.
