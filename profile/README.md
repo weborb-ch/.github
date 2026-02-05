@@ -17,4 +17,4 @@ Mit einem offenen Herz für Open Source schaffen wir Lösungen, die ehrlich, eff
 
 ## Software für die Öffentlichkeit
 
-[Eintrittli](https://github.com/weborb-ch/eintrittli) ist ein einfaches Event-Anmeldesystem. Kein Bezahlsystem und kein Login für Teilnehmen. Jedoch Funktionen die es einfach machen um damit zu arbeiten für Teammitglieder und Administratoren dank der simplen Übersicht.
+- [Eintrittli](https://github.com/weborb-ch/eintrittli) ist ein einfaches Event-Anmeldesystem. Kein Bezahlsystem und kein Login für Teilnehmen. Jedoch Funktionen die es einfach machen um damit zu arbeiten für Teammitglieder und Administratoren dank der simplen Übersicht.
